@@ -1,0 +1,6 @@
+{
+  "name": "Crypto Calc",
+  "description": "VIP cryptocurrency coin & dollar value calculator with dynamic unit formatting and AdMob integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
